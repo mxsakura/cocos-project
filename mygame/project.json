@@ -1,0 +1,8 @@
+{
+  "engine": "cocos2d-html5",
+  "packages": "packages",
+  "version": "2.4.0",
+  "name": "mygame",
+  "id": "c4c85494-52a6-4d3f-a61b-b555354305eb",
+  "isNew": false
+}
